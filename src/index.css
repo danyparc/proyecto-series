@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card{
+  background-color: gray;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: left;
+
+}
+
+p.title{
+  font-size: 1.5rem;
+}
+p.bio{
+  font-size: 1.2rem;
+}
